@@ -1,4 +1,4 @@
-package _01_getting_started;
+package _01_basic_variables;
 
 /**
  * Function to print the value for X on the screen N-times:

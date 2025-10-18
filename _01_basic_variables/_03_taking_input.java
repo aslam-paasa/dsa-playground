@@ -1,4 +1,4 @@
-package _01_getting_started;
+package _01_basic_variables;
 
 import java.util.Scanner;
 

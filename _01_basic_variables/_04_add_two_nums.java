@@ -1,4 +1,4 @@
-package _01_getting_started;
+package _01_basic_variables;
 
 public class _04_add_two_nums {
     public static void main(String[] args) {
