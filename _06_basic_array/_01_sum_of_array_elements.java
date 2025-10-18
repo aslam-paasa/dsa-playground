@@ -3,16 +3,7 @@ package _06_basic_array;
 import java.util.Scanner;
 
 /**
- * Sum Of Array Elements:
- * - The sum of array, begin by initializing the sum to zero,
- *   representing the starting point with no accumulated value.
- * - Then sequentially add each element of the array to this sum.
- * - This approach ensures that, by the end of the process, the
- *   sum reflects the total value of all elements in the array. 
-*/
-
-/**
- * Approach:
+ * Sum of array elements:
  * 1. Initialize a variable sum to 0. This variable will hold the
  *    total sum of the array elements. 
  * 2. Iterate through each element in the array using a loop.
