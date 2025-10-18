@@ -18,10 +18,9 @@ import java.util.Scanner;
  *        case constant2:
  *            // Body to be executed
  *            break;
- *    }
- *    default:
- *        // Body to be executed
- *        break;
+ *        default:
+ *            // Body to be executed
+ *            break;
  *    }
 */
 
