@@ -19,7 +19,7 @@ package _13_prefix_sum_basics;
  * - Highest altitude = 1
 */
 
-public class _03_find_the_highest_altitude {
+public class _05_find_the_highest_altitude {
 
     /**
      * Approach-1: Brute Force (Cumulative Sum Calculation)

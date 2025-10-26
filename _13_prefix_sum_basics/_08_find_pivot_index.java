@@ -15,7 +15,7 @@ package _13_prefix_sum_basics;
  *   - Right side of the index 3 => 5 + 6     => 11
 */
 
-public class _06_find_pivot_index {
+public class _08_find_pivot_index {
     /**
      * Approach-1: Brute Force (Check each index)
      * 1. Loop through each index from 0 to n-1

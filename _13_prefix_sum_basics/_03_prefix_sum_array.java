@@ -6,7 +6,7 @@ package _13_prefix_sum_basics;
  * that prefix[i] stores the sum of elements from index 0 to i. 
 */
 
-public class _01_prefix_sum_array {
+public class _03_prefix_sum_array {
     /**
      * Approach-1: Brute Force (Repeat Summation)
      * - For every index i, calculate the sum of all elements from idx

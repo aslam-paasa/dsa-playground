@@ -20,7 +20,7 @@ package _13_prefix_sum_basics;
  *      staring value. 
 */
 
-public class _04_min_value_to_get_positive_step_by_step_sum {
+public class _06_min_value_to_get_positive_step_by_step_sum {
     /**
      * Approach-1: Brute Force (Try all possible start values)
      * 1. Initialize startValue = 1

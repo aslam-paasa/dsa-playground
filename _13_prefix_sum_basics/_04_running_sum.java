@@ -14,7 +14,7 @@ package _13_prefix_sum_basics;
  * - runningSum[3] = 1 + 2 + 3 + 4 = 10
 */
 
-public class _02_running_sum {
+public class _04_running_sum {
     /**
      * Approach-1: Brute Force (Nested Loops)
      * 1. Create a new array runningSum of the same size as nums. 

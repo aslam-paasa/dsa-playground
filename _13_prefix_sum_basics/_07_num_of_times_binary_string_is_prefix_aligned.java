@@ -29,7 +29,7 @@ package _13_prefix_sum_basics;
  * twice. 
 */
 
-public class _05_num_of_times_binary_string_is_prefix_aligned {
+public class _07_num_of_times_binary_string_is_prefix_aligned {
     /**
      * Approach-1: Brute Force
      * 1. Create an array arr to simulate to binary string 
